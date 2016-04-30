@@ -1,0 +1,21 @@
+Metadata-Version: 1.1
+Name: db-sync
+Version: 1.0.0
+Author: Clivern
+Author-email: support at clivern com
+Maintainer: Clivern
+Maintainer-email: support at clivern com
+Home-page: https://github.com/Clivern/db-sync
+Download-url: https://github.com/Clivern/db-sync/archive/1.0.0.zip
+Summary: Synchronize Data Between Different Database Schemas
+Keywords: sync,mysql,mongodb,elasticsearch
+Classifier: Development Status :: 1 - Planning
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3.0
+Classifier: Programming Language :: Python :: 3.1
+Classifier: Programming Language :: Python :: 3.2
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Topic :: Utilities
